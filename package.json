@@ -1,0 +1,15 @@
+{
+  "name": "ecommerce-api-automation",
+  "version": "1.0.0",
+  "description": "Интеграционные API-тесты каталога товаров DummyJSON",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "node --test ./tests/products.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
